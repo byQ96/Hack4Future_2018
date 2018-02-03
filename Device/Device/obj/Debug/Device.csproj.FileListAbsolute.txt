@@ -1,0 +1,17 @@
+C:\Users\Michal\source\repos\Device\Device\bin\Debug\Device.exe.config
+C:\Users\Michal\source\repos\Device\Device\bin\Debug\Device.exe
+C:\Users\Michal\source\repos\Device\Device\bin\Debug\Device.pdb
+C:\Users\Michal\source\repos\Device\Device\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Michal\source\repos\Device\Device\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Michal\source\repos\Device\Device\obj\Debug\Device.csprojResolveAssemblyReference.cache
+C:\Users\Michal\source\repos\Device\Device\obj\Debug\MainWindow.g.cs
+C:\Users\Michal\source\repos\Device\Device\obj\Debug\App.g.cs
+C:\Users\Michal\source\repos\Device\Device\obj\Debug\Device_MarkupCompile.cache
+C:\Users\Michal\source\repos\Device\Device\obj\Debug\Device_MarkupCompile.lref
+C:\Users\Michal\source\repos\Device\Device\obj\Debug\MainWindow.baml
+C:\Users\Michal\source\repos\Device\Device\obj\Debug\Device.g.resources
+C:\Users\Michal\source\repos\Device\Device\obj\Debug\Device.Properties.Resources.resources
+C:\Users\Michal\source\repos\Device\Device\obj\Debug\Device.csproj.GenerateResource.Cache
+C:\Users\Michal\source\repos\Device\Device\obj\Debug\Device.csproj.CoreCompileInputs.cache
+C:\Users\Michal\source\repos\Device\Device\obj\Debug\Device.exe
+C:\Users\Michal\source\repos\Device\Device\obj\Debug\Device.pdb
